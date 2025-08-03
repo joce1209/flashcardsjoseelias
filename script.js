@@ -11,3 +11,4 @@ cartoes.forEach(cartao => {
     conteudo.classList.toggle('girado');
   });
 });
+
